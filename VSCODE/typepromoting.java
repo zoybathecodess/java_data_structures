@@ -9,6 +9,7 @@ public class typepromoting {
         long l=10;
         int i=10;
         System.out.printf("%.1f\n",fl+d+l+i);
+
     }
     
 }
